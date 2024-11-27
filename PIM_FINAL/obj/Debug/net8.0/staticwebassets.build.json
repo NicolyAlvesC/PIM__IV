@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VxImXi1tQE2HBP+jtbouGGoGoIPPekbH7LmxE3c8PCQ=",
+  "Hash": "rE7AYgveD7uFETrZdnEfA8oW2Y+4EoV2xYkBQPOoMQk=",
   "Source": "PIM_FINAL",
   "BasePath": "_content/PIM_FINAL",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PIM_FINAL/wwwroot",
       "Source": "PIM_FINAL",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/obj/Debug/net8.0/scopedcss/bundle/PIM_FINAL.styles.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/obj/Debug/net8.0/scopedcss/bundle/PIM_FINAL.styles.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Computed",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "PIM_FINAL.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/workspaces/PIM__IV/PIM_FINAL/obj/Debug/net8.0/scopedcss/bundle/PIM_FINAL.styles.css"
+      "OriginalItemSpec": "/home/codespace/PIM__IV/PIM_FINAL/obj/Debug/net8.0/scopedcss/bundle/PIM_FINAL.styles.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/obj/Debug/net8.0/scopedcss/projectbundle/PIM_FINAL.bundle.scp.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/obj/Debug/net8.0/scopedcss/projectbundle/PIM_FINAL.bundle.scp.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Computed",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "PIM_FINAL.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/workspaces/PIM__IV/PIM_FINAL/obj/Debug/net8.0/scopedcss/projectbundle/PIM_FINAL.bundle.scp.css"
+      "OriginalItemSpec": "/home/codespace/PIM__IV/PIM_FINAL/obj/Debug/net8.0/scopedcss/projectbundle/PIM_FINAL.bundle.scp.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/css/fornecedores.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/css/fornecedores.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "css/fornecedores.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/css/fornecedores.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/css/home.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/css/home.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "css/home.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/css/home.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/css/produtos.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/css/produtos.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "css/produtos.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/css/produtos.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/favicon.ico",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/favicon.ico",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/fonts/Quicksand.ttf",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/fonts/Quicksand.ttf",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "fonts/Quicksand.ttf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/fonts/Quicksand.ttf"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/abobrinha.jpg",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/abobrinha.jpg",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/abobrinha.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/images/abobrinha.jpg"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/abobrinha.png",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/abobrinha.png",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/abobrinha.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/images/abobrinha.png"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/abobrinha.webp",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/abobrinha.webp",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/abobrinha.webp",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/images/abobrinha.webp"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/alface.png",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/alface.png",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/alface.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/images/alface.png"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/banana.jpg",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/banana.jpg",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/banana.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/images/banana.jpg"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/banner 01.jpg",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/banner 01.jpg",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/banner 01.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/images/banner 01.jpg"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/banner 02.jpg",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/banner 02.jpg",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/banner 02.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/images/banner 02.jpg"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/banner 03.png",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/banner 03.png",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/banner 03.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot/images/banner 03.png"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/batatadoce.jpg",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/batatadoce.jpg",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/batatadoce.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot/images/batatadoce.jpg"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/batatadoce.png",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/batatadoce.png",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/batatadoce.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/images/batatadoce.png"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/bnana.png",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/bnana.png",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/bnana.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot/images/bnana.png"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/caju.jpg",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/caju.jpg",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/caju.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot/images/caju.jpg"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/caju.png",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/caju.png",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/caju.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot/images/caju.png"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/caju.webp",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/caju.webp",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/caju.webp",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/images/caju.webp"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/chuchu.jpeg",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/chuchu.jpeg",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/chuchu.jpeg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot/images/chuchu.jpeg"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/chuchu.png",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/chuchu.png",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/chuchu.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot/images/chuchu.png"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/espinafre.png",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/espinafre.png",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/espinafre.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot/images/espinafre.png"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/fazenda urbana.jpg",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/fazenda urbana.jpg",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/fazenda urbana.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot/images/fazenda urbana.jpg"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/fornecedor.jpg",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/fornecedor.jpg",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/fornecedor.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot/images/fornecedor.jpg"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/maça.jpeg",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/maça.jpeg",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/maça.jpeg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot/images/maça.jpeg"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/morango-.png",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/morango-.png",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/morango-.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot/images/morango-.png"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/morango.jpeg",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/morango.jpeg",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/morango.jpeg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot/images/morango.jpeg"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/morango.webp",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/morango.webp",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/morango.webp",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot/images/morango.webp"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/produtos.jpg",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/produtos.jpg",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/produtos.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot/images/produtos.jpg"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/images/tomate.png",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/tomate.png",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "images/tomate.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot/images/tomate.png"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/js/site.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/js/site.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "PIM_FINAL",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/PIM__IV/PIM_FINAL/wwwroot/",
+      "ContentRoot": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/",
       "BasePath": "_content/PIM_FINAL",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

@@ -40,6 +40,8 @@
             indice = (indice + direcao + totalImagens) % totalImagens;
             imagens.style.transform = 'translateX(' + (-indice * 100) + '%)';
         }
+
+        
     </script>
 
     <div class="conteiner-mae">
@@ -60,22 +62,38 @@
                 </select>
             </div>
             <div class="filtrao">
-                <div class="produtos" id="produtos">
-                    <div class="produto categoria1" onclick="abrirPopup('Produto 1', 'Descrição do Produto 1')">
-                        <img src="~/images/[.png" alt="Produto 1">
-                        <h3>Maçã</h3>
+               <div class="produtos" id="produtos">
+                    <div class="produto categoria1" onclick="abrirPopup('Morango', 'Nossos morangos são doces e cheios de sabor, perfeitos para saladas de frutas, sobremesas ou um snack saudável. Ricos em vitamina C, são irresistíveis!')">
+                        <img src="~/images/morango-.png" alt="Produto 1">
+                        <h3>Morango</h3>
+                        <p>Preço: R$ 5,00</p> <!-- Adicionado o preço -->
                     </div>
-                    <div class="produto categoria2" onclick="abrirPopup('Produto 2', 'Descrição do Produto 2')">
-                        <img src="~/images/[.png" alt="Produto 2">
+                    <div class="produto categoria1" onclick="abrirPopup('Caju', 'Com seu sabor tropical e refrescante, o caju é perfeito para sucos, sobremesas e consumo in natura. Rico em vitamina C e antioxidantes, o caju é uma fruta deliciosa e saudável. Aproveite nossa seleção de cajus frescos!')">
+                        <img src="~/images/caju.png" alt="Produto 2">
+                        <h3>Caju</h3>
+                        <p>Preço: R$ 4,50</p> <!-- Adicionado o preço -->
+                    </div>
+
+                    <div class="produto categoria2" onclick="abrirPopup('Abobrinha', 'A abobrinha é um legume leve e versátil, perfeito para saladas, refogados e até massas! Rica em fibras e vitamina C, é uma escolha saudável para suas receitas. Experimente a qualidade dos nossos produtos frescos!')">
+                        <img src="~/images/abobrinha.png" alt="Produto 4">
+                        <h3>Abobrinha</h3>
+                        <p>Preço: R$ 3,00</p> <!-- Adicionado o preço -->
+                    </div>
+                    <div class="produto categoria2" onclick="abrirPopup('Batata-doce', 'A batata-doce é uma excelente fonte de energia, fibras e vitaminas. Com um sabor levemente adocicado, fica ótima assada, cozida ou em purês. Experimente nossa batata-doce sempre fresca!')">
+                        <img src="~/images/batatadoce.png" alt="Produto 5">
+                        <h3>Batata Doce</h3>
+                        <p>Preço: R$ 2,50</p> <!-- Adicionado o preço -->
+                    </div>
+                    
+                    <div class="produto categoria3" onclick="abrirPopup('Chuchu', 'O chuchu é leve e cheio de versatilidade. Ótimo para saladas, refogados e cozidos, é rico em fibras e hidratação. Colhido com carinho para dar um toque saudável às suas receitas!')">
+                        <img src="~/images/chuchu.png" alt="Produto 7">
                         <h3>Chuchu</h3>
+                        <p>Preço: R$ 1,80</p> <!-- Adicionado o preço -->
                     </div>
-                    <div class="produto categoria3" onclick="abrirPopup('Produto 3', 'Descrição do Produto 3')">
-                        <img src="~/images/[.png" alt="Produto 3">
-                        <h3>Produto 3</h3>
-                    </div>
-                    <div class="produto categoria1" onclick="abrirPopup('Produto 4', 'Descrição do Produto 4')">
-                        <img src="~/images/[.png" alt="Produto 4">
-                        <h3>Produto 4</h3>
+                    <div class="produto categoria3" onclick="abrirPopup('Espinafre', 'O espinafre é um vegetal verde-escuro, rico em ferro e antioxidantes. Ideal para saladas, suflês e refogados, ele traz um boost nutritivo às refeições. Aproveite nosso espinafre fresco e cheio de sabor!')">
+                        <img src="~/images/espinafre.png" alt="Produto 8">
+                        <h3>Espinafre</h3>
+                        <p>Preço: R$ 2,20</p> <!-- Adicionado o preço -->
                     </div>
                 </div>
 
@@ -91,6 +109,31 @@
             </div>
 
             <script>
+                function filtrarProdutos() {
+                    const filtro = document.getElementById('filtro').value;
+                    const produtos = document.querySelectorAll('.produto');
+
+                    produtos.forEach(produto => {
+                        if (filtro === 'todos' || produto.classList.contains(filtro)) {
+                            produto.style.display = 'block';
+                        } else {
+                            produto.style.display = 'none';
+                        }
+                    });
+                }
+
+                function abrirPopup(titulo, descricao) {
+                    document.getElementById('popup-titulo').innerText = titulo;
+                    document.getElementById('popup-descricao').innerText = descricao;
+                    document.getElementById('popup').style.display = 'flex';
+                }
+
+                function fecharPopup() {
+                    document.getElementById('popup').style.display = 'none';
+                }
+            </script>
+        </div>
+        <script>
                 function filtrarProdutos() {
                     const filtro = document.getElementById('filtro').value;
                     const produtos = document.querySelectorAll('.produto');
@@ -144,9 +187,10 @@
                         <button type="submit">Enviar</button>
                     </form> 
                 </div>
-                  <div class="copyright">
-                <h4>Made with ❤️ by VOLK &copy; 2024</h4>
+                
             </div>
+              <div class="copyright">
+                <h4>Made with ❤️ by VOLK &copy; 2024</h4>
             </div>
           
         </div>
