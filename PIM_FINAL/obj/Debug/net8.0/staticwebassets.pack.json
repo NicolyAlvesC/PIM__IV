@@ -1,375 +1,379 @@
 {
   "Files": [
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/obj/Debug/net8.0/scopedcss/projectbundle/PIM_FINAL.bundle.scp.css",
-      "PackagePath": "staticwebassets/PIM_FINAL.bundle.scp.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PIM_FINAL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PIM_FINAL.bundle.scp.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/css/fornecedores.css",
-      "PackagePath": "staticwebassets/css/fornecedores.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\css\\fornecedores.css",
+      "PackagePath": "staticwebassets\\css\\fornecedores.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/css/home.css",
-      "PackagePath": "staticwebassets/css/home.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/css/produtos.css",
-      "PackagePath": "staticwebassets/css/produtos.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\css\\pedidos.css",
+      "PackagePath": "staticwebassets\\css\\pedidos.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/favicon.ico",
-      "PackagePath": "staticwebassets/favicon.ico"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\css\\produtos.css",
+      "PackagePath": "staticwebassets\\css\\produtos.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/fonts/Quicksand.ttf",
-      "PackagePath": "staticwebassets/fonts/Quicksand.ttf"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/abobrinha.jpg",
-      "PackagePath": "staticwebassets/images/abobrinha.jpg"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\fonts\\Quicksand.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Quicksand.ttf"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/abobrinha.png",
-      "PackagePath": "staticwebassets/images/abobrinha.png"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\abobrinha.jpg",
+      "PackagePath": "staticwebassets\\images\\abobrinha.jpg"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/abobrinha.webp",
-      "PackagePath": "staticwebassets/images/abobrinha.webp"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\abobrinha.png",
+      "PackagePath": "staticwebassets\\images\\abobrinha.png"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/alface.png",
-      "PackagePath": "staticwebassets/images/alface.png"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\abobrinha.webp",
+      "PackagePath": "staticwebassets\\images\\abobrinha.webp"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/banana.jpg",
-      "PackagePath": "staticwebassets/images/banana.jpg"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\alface.png",
+      "PackagePath": "staticwebassets\\images\\alface.png"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/banner 01.jpg",
-      "PackagePath": "staticwebassets/images/banner 01.jpg"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\banana.jpg",
+      "PackagePath": "staticwebassets\\images\\banana.jpg"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/banner 02.jpg",
-      "PackagePath": "staticwebassets/images/banner 02.jpg"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\banner 01.jpg",
+      "PackagePath": "staticwebassets\\images\\banner 01.jpg"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/banner 03.png",
-      "PackagePath": "staticwebassets/images/banner 03.png"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\banner 02.jpg",
+      "PackagePath": "staticwebassets\\images\\banner 02.jpg"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/batatadoce.jpg",
-      "PackagePath": "staticwebassets/images/batatadoce.jpg"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\banner 03.png",
+      "PackagePath": "staticwebassets\\images\\banner 03.png"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/batatadoce.png",
-      "PackagePath": "staticwebassets/images/batatadoce.png"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\batatadoce.jpg",
+      "PackagePath": "staticwebassets\\images\\batatadoce.jpg"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/bnana.png",
-      "PackagePath": "staticwebassets/images/bnana.png"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\batatadoce.png",
+      "PackagePath": "staticwebassets\\images\\batatadoce.png"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/caju.jpg",
-      "PackagePath": "staticwebassets/images/caju.jpg"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\bnana.png",
+      "PackagePath": "staticwebassets\\images\\bnana.png"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/caju.png",
-      "PackagePath": "staticwebassets/images/caju.png"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\caju.jpg",
+      "PackagePath": "staticwebassets\\images\\caju.jpg"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/caju.webp",
-      "PackagePath": "staticwebassets/images/caju.webp"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\caju.png",
+      "PackagePath": "staticwebassets\\images\\caju.png"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/chuchu.jpeg",
-      "PackagePath": "staticwebassets/images/chuchu.jpeg"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\caju.webp",
+      "PackagePath": "staticwebassets\\images\\caju.webp"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/chuchu.png",
-      "PackagePath": "staticwebassets/images/chuchu.png"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\chuchu.jpeg",
+      "PackagePath": "staticwebassets\\images\\chuchu.jpeg"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/espinafre.png",
-      "PackagePath": "staticwebassets/images/espinafre.png"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\chuchu.png",
+      "PackagePath": "staticwebassets\\images\\chuchu.png"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/fazenda urbana.jpg",
-      "PackagePath": "staticwebassets/images/fazenda urbana.jpg"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\espinafre.png",
+      "PackagePath": "staticwebassets\\images\\espinafre.png"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/fornecedor.jpg",
-      "PackagePath": "staticwebassets/images/fornecedor.jpg"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\fazenda urbana.jpg",
+      "PackagePath": "staticwebassets\\images\\fazenda urbana.jpg"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/maça.jpeg",
-      "PackagePath": "staticwebassets/images/maça.jpeg"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\fornecedor.jpg",
+      "PackagePath": "staticwebassets\\images\\fornecedor.jpg"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/morango-.png",
-      "PackagePath": "staticwebassets/images/morango-.png"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\maça.jpeg",
+      "PackagePath": "staticwebassets\\images\\maça.jpeg"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/morango.jpeg",
-      "PackagePath": "staticwebassets/images/morango.jpeg"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\morango-.png",
+      "PackagePath": "staticwebassets\\images\\morango-.png"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/morango.webp",
-      "PackagePath": "staticwebassets/images/morango.webp"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\morango.jpeg",
+      "PackagePath": "staticwebassets\\images\\morango.jpeg"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/produtos.jpg",
-      "PackagePath": "staticwebassets/images/produtos.jpg"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\morango.webp",
+      "PackagePath": "staticwebassets\\images\\morango.webp"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/images/tomate.png",
-      "PackagePath": "staticwebassets/images/tomate.png"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\produtos.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos.jpg"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\images\\tomate.png",
+      "PackagePath": "staticwebassets\\images\\tomate.png"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/LICENSE",
-      "PackagePath": "staticwebassets/lib/bootstrap"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/LICENSE.md",
-      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/dist/additional-methods.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery/dist/jquery.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery/dist/jquery.min.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "/home/codespace/PIM__IV/PIM_FINAL/wwwroot/lib/jquery/dist/jquery.min.map",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.PIM_FINAL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PIM_FINAL.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.PIM_FINAL.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PIM_FINAL.props",
       "PackagePath": "build\\PIM_FINAL.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PIM_FINAL.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PIM_FINAL.props",
       "PackagePath": "buildMultiTargeting\\PIM_FINAL.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PIM_FINAL.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PIM_FINAL.props",
       "PackagePath": "buildTransitive\\PIM_FINAL.props"
     }
   ],

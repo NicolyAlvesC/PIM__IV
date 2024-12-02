@@ -1,0 +1,91 @@
+﻿@model IEnumerable<PIM_FINAL.Models.Pedido>
+
+@{
+    ViewData["Title"] = "VOLK | Pedidos";
+}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="~/css/pedidos.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <title>@ViewData["VOLK | Pedidos"]</title>
+</head>
+
+    <div class="conteiner-mae">
+        <header>
+            <a href="@Url.Action("Index", "Home")" class="botao-voltar">
+                <i class="fas fa-arrow-left"></i>
+            </a>
+        </header>
+
+        <div class="faixa-1">
+            <div class="titulo">Consulte seu Pedido!</div>
+        </div>
+
+        <div class="faixa-2">
+            <div class="tabela-scroll">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th class="cnpj">
+                                @Html.DisplayNameFor(model => model.CNPJ)
+                            </th>
+                            <th class="produto">
+                                @Html.DisplayNameFor(model => model.NomeProduto)
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.CNPJ)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.NomeProduto)
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+
+        <div class="conteiner-footer">
+            <div class="forms">
+                <div class="forms-1">
+                    <div class="f1-titulo">
+                        Entre em contato e faça seu pedido!
+                    </div>
+                    <form id="orderForm" action="https://api.web3forms.com/submit" method="POST">
+                        <input type="hidden" name="access_key" value="a6353a25-ea1d-4891-9ba6-a5ff8bf6902c">
+
+                        <label for="cnpj">CNPJ:</label>
+                        <input type="text" id="cnpj" name="cnpj" required placeholder="Digite seu CNPJ">
+
+                        <label for="email">E-mail:</label>
+                        <input type="email" id="email" name="email" required placeholder="Digite seu e-mail">
+
+                        <label for="produto">Selecione uma categoria:</label>
+                        <select id="produto" name="produto" required>
+                            <option value="">Selecione uma categoria:</option>
+                            <option value="verduras">VERDURAS</option>
+                            <option value="legumes">LEGUMES</option>
+                            <option value="frutas">FRUTAS</option>
+                        </select>
+
+                        <label for="descricao">Descrição do Pedido:</label>
+                        <textarea id="descricao" name="descricao" rows="4" required placeholder="Descreva seu pedido"></textarea>
+
+                        <button type="submit">Enviar</button>
+                    </form>
+                </div>
+            </div>
+            <div class="copyright">
+                <h4>Made with ❤️ by VOLK &copy; 2024</h4>
+            </div>
+
+        </div>  
+    </div>

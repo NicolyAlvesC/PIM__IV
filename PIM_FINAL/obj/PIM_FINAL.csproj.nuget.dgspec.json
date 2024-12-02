@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/home/codespace/PIM__IV/PIM_FINAL/PIM_FINAL.csproj": {}
+    "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\PIM_FINAL.csproj": {}
   },
   "projects": {
-    "/home/codespace/PIM__IV/PIM_FINAL/PIM_FINAL.csproj": {
+    "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\PIM_FINAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/codespace/PIM__IV/PIM_FINAL/PIM_FINAL.csproj",
+        "projectUniqueName": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\PIM_FINAL.csproj",
         "projectName": "PIM_FINAL",
-        "projectPath": "/home/codespace/PIM__IV/PIM_FINAL/PIM_FINAL.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/home/codespace/PIM__IV/PIM_FINAL/obj/",
+        "projectPath": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\PIM_FINAL.csproj",
+        "packagesPath": "C:\\Users\\vitonico\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitonico\\PIM__IV\\PIM_FINAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\vitonico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,6 +59,14 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "System.Diagnostics.Tools": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [
@@ -77,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

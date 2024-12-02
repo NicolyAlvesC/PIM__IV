@@ -1,7 +1,19 @@
+using Microsoft.EntityFrameworkCore;
+using PIM_FINAL.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<Contexto>
+    (options => options.UseSqlServer(
+                                     "Data Source=DESKTOP-EAQ2PAQ\\SQLEXPRESS;" +
+                                     "Initial Catalog=PIM;" +
+                                     "Integrated Security=True;" +
+                                     "Encrypt=True;" +
+                                     "Trust Server Certificate=True"
+                                     ));
 
 var app = builder.Build();
 
